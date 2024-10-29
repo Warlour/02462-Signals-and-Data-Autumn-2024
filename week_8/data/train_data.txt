@@ -4064,8 +4064,8 @@ __label__ham I want to sent  &lt;#&gt; mesages today. Thats y. Sorry if i hurts
 __label__spam This is the 2nd attempt to contract U, you have won this weeks top prize of either £1000 cash or £200 prize. Just call 09066361921
 __label__ham Guy, no flash me now. If you go call me, call me. How madam. Take care oh.
 __label__ham Mark works tomorrow. He gets out at 5. His work is by your house so he can meet u afterwards.
-__label__ham Keep ur problems in ur heart, b'coz nobody will fight for u. Only u &amp; u have to fight for ur self &amp; win the battle. -VIVEKANAND- G 9t.. SD..
-ham	Yeah, give me a call if you've got a minute
+__label__ham Keep ur problems in ur heart, b'coz nobody will fight for u. Only u &amp; u have to fight for ur self &amp; win the battle. -VIVEKANAND- G 9t.. SD..
+ham	Yeah, give me a call if you've got a minute
 ham	HI BABE UAWAKE?FEELLIKW SHIT.JUSTFOUND OUT VIA ALETTER THATMUM GOTMARRIED 4thNOV.BEHIND OURBACKS  FUCKINNICE!SELFISH,DEVIOUSBITCH.ANYWAY,IL CALL U"
 __label__ham Amazing : If you rearrange these letters it gives the same meaning... Dormitory = Dirty room Astronomer = Moon starer The eyes = They see Election results = Lies lets recount Mother-in-law = Woman Hitler Eleven plus two =Twelve plus one Its Amazing... !:-)
 __label__ham Aiya we discuss later lar... Pick ü up at 4 is it?
