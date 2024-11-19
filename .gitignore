@@ -3,3 +3,5 @@ week_10/wiki-news-300d-1M.vec
 week_9/glove.6B.50d.txt
 week_9/Reviews.csv
 *.zip
+.venv
+week_10/data/
